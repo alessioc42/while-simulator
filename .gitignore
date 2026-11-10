@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.tsbuildinfo
+coverage/
+.vite/
+test-results/
+playwright-report/
+*.pdf
+.agents/
+.aws/
+.codex/
+.env
+.env.*
+!.env.example
